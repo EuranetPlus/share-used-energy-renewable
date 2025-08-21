@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik energie pochází v EU z obnovitelných zdrojů?",
+  "subtitle": "Podíl hrubé konečné spotřeby energie pocházející z obnovitelných zdrojů v Evropské unii v roce 2023 činil 24,5 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Hrubá konečná spotřeba energie se vztahuje k energii dodané koncovým uživatelům pro jejich spotřebu. Švédsko, Finsko a Dánsko měly v roce 2023 nejvyšší podíl obnovitelných zdrojů energie mezi členskými státy díky silnému vodnímu průmyslu (také Švédsko a Finsko), větrné energii a širokému využívání pevných biopaliv pro dálkové vytápění.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
