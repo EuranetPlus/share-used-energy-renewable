@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyi energia származik megújuló forrásokból az EU-ban?",
+  "subtitle": "Az Európai Unióban a bruttó végső energiafogyasztás 24,5%-a megújuló forrásokból származott 2023-ban.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A bruttó végső energiafogyasztás a végfelhasználóknak fogyasztásra szállított energiára utal. Svédország, Finnország és Dánia rendelkezett a legmagasabb megújuló energiaforrások részarányával a tagállamok közül 2023-ban az erős vízerőműiparnak (Svédországban és Finnországban is), a szélenergiának és a szilárd bioüzemanyagok széles körű távfűtési használatának köszönhetően.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
