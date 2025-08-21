@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket energi som används kommer från förnybara källor i EU?",
+  "subtitle": "Andelen av den slutliga bruttoenergiförbrukningen som kommer från förnybara källor i Europeiska unionen år 2023 är 24,5 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Brutto slutlig energiförbrukning avser den energi som levereras till slutanvändare för deras konsumtion. Sverige, Finland och Danmark hade de högsta andelarna av förnybar energi bland medlemsstaterna år 2023 på grund av starka vattenkraftsindustrier (även Sverige och Finland), vindkraft och utbredd användning av fasta biobränslen för fjärrvärme.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
