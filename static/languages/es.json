@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánta energía utilizada proviene de fuentes renovables en la UE?",
+  "subtitle": "La proporción del consumo final bruto de energía procedente de fuentes renovables en la Unión Europea en 2023 es del 24,5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "El consumo final bruto de energía se refiere a la energía suministrada a los usuarios finales para su consumo. Suecia, Finlandia y Dinamarca registraron las mayores cuotas de energías renovables entre los Estados miembros en 2023 gracias a la solidez de la industria hidroeléctrica (también en Suecia y Finlandia), la energía eólica y el amplio uso de biocombustibles sólidos para la calefacción urbana.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
