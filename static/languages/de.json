@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel Energie stammt in der EU aus erneuerbaren Quellen?",
+  "subtitle": "Der Anteil erneuerbarer Energien am Bruttoendenergieverbrauch in der Europäischen Union beträgt im Jahr 2023 24,5 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Der Bruttoendenergieverbrauch bezeichnet die Energie, die den Endverbrauchern zum Eigenverbrauch zur Verfügung gestellt wird. Schweden, Finnland und Dänemark hatten im Jahr 2023 den höchsten Anteil erneuerbarer Energien unter den Mitgliedstaaten. Dies ist auf die starke Wasserkraftindustrie (auch in Schweden und Finnland), die Windkraft und die breite Nutzung fester Biobrennstoffe für die Fernwärme zurückzuführen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
