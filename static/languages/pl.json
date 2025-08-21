@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaka część energii zużywanej w UE pochodzi ze źródeł odnawialnych?",
+  "subtitle": "Udział energii ze źródeł odnawialnych w całkowitym zużyciu energii końcowej w Unii Europejskiej w 2023 r. wyniesie 24,5%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Końcowe zużycie energii brutto odnosi się do energii dostarczonej użytkownikom końcowym na ich potrzeby. Szwecja, Finlandia i Dania miały najwyższy udział OZE wśród państw członkowskich w 2023 r. ze względu na silny przemysł hydroenergetyczny (również w Szwecji i Finlandii), energię wiatrową i powszechne wykorzystanie biopaliw stałych w ciepłownictwie.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
