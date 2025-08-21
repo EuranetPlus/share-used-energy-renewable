@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel energie is in de EU afkomstig uit hernieuwbare bronnen?",
+  "subtitle": "Het aandeel van het bruto-eindverbruik van energie afkomstig uit hernieuwbare bronnen bedraagt in 2023 in de Europese Unie 24,5%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Het bruto-eindverbruik van energie verwijst naar de energie die aan eindgebruikers wordt geleverd voor hun verbruik. Zweden, Finland en Denemarken hadden in 2023 het hoogste aandeel hernieuwbare energiebronnen van de lidstaten dankzij sterke waterkrachtcentrales (ook Zweden en Finland), windenergie en het brede gebruik van vaste biobrandstoffen voor stadsverwarming.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
