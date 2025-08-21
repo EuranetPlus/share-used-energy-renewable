@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad fuinnimh a úsáidtear a thagann ó fhoinsí in-athnuaite san AE?",
+  "subtitle": "Is é 24.5% an sciar den olltomhaltas fuinnimh deiridh a thagann ó fhoinsí in-athnuaite san Aontas Eorpach in 2023.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Tagraíonn tomhaltas fuinnimh comhlán deiridh don fhuinneamh a sheachadtar chuig úsáideoirí deiridh dá dtomhaltóir féin. Bhí na sciar is airde de fhuinneamh in-athnuaite i measc na mBallstát ag an tSualainn, an Fhionlainn agus an Danmhairg in 2023 mar gheall ar thionscail láidre hidrileictreacha (an tSualainn agus an Fhionlainn chomh maith), cumhacht na gaoithe agus úsáid fhorleathan bithbhreoslaí soladacha le haghaidh téimh cheantair.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
